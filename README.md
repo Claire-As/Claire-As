@@ -1,5 +1,4 @@
 Hi this is some of my codes, feel free to check if it interest you
-https://claire-as.github.io/portfolio-claire-assadi/
 
 <!---
 Claire-As/Claire-As is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
